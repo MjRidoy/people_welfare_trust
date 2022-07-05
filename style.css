@@ -1,0 +1,98 @@
+body{
+    font-family: 'Mukta', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#header_section{
+    background-image: url(img/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 550px;
+    margin-bottom: 50px;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+h1{
+    font-size: 50px;
+    color: #f9f9f9;
+}
+.header_content{
+    text-align: center;
+    padding: 50px;
+    width: 50%;
+    margin: auto;
+}
+p{
+    color: #efd7d7;
+    padding: 0px 20px;
+}
+.donate_btn{
+    padding: 7px 13px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 700;
+    color:
+    #f9f9f9;
+    background-color: #526dd4;
+    display: inline-block;
+    margin-top: 5px;
+    /* text-align: center; */
+}
+#amount_section{
+    width:50%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.payment_info{
+    text-align: center;
+    padding: 5px;
+}
+.payment_amount{
+    display: flex;
+}
+.option{
+    width: 15%;
+    float:
+    left;
+    padding: 0px 8px;
+    background-color: #fafafa;
+    border-radius: 2px;
+    margin: auto;
+    text-align: center;
+    font-weight: 700;
+}
+.input_box{
+    padding: 2% 35%;
+    /* border-bottom: 1px; */
+    border: none;
+    margin: 35px 0px 15px 15px;
+    text-align: center;
+    border-bottom: 1px solid #e7dede;
+}
+.donate_now_btn{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 25px;
+    color: #707070;
+}
+.option_B{
+    color: #FF5D5D;
+    border:1px solid #FF5454;
+    background-color: #FFEEEE;
+    width: 15%;
+    float:left;
+    padding: 0px 8px;
+    border-radius: 2px;
+    margin: auto;
+    text-align: center;
+    font-weight: 700;
+}
